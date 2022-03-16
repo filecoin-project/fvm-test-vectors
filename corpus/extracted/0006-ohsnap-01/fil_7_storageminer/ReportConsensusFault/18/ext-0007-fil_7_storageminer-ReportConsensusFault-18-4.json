@@ -1,7 +1,8 @@
 {
   "class": "message",
   "selector": {
-    "min_protocol_version": "ohsnap"
+    "min_protocol_version": "ohsnap",
+    "requires:consensus_fault_extern": "true"
   },
   "_meta": {
     "id": "ext-0007-fil_7_storageminer-ReportConsensusFault-18-4",
