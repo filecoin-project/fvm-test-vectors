@@ -29,9 +29,7 @@
     {
       "on": [
         "chain",
-        9,
-        2679955,
-        ""
+        2679955
       ],
       "ret": "0xAYjAsPYBwcepIWp4rjohFFjSmK69ZSIl1enYgI8Ho="
     }

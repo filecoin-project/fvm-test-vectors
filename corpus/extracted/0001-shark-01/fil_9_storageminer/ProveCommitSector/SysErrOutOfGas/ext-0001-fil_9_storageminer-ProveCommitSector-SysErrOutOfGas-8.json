@@ -29,18 +29,14 @@
     {
       "on": [
         "chain",
-        5,
-        2676836,
-        "RADyrxg="
+        2676836
       ],
       "ret": "tDYgtctWovt078ucgWm48fnfWsEB8jEESx5PmQ5Ks/4="
     },
     {
       "on": [
         "beacon",
-        6,
-        2679811,
-        "RADyrxg="
+        2679811
       ],
       "ret": "cJErbBBvzyjbqbEwF2EBWd29YpMWM9QAX+X6PJZM42k="
     }

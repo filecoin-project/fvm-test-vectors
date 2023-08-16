@@ -29,18 +29,14 @@
     {
       "on": [
         "chain",
-        5,
-        2678486,
-        "RADY/1Q="
+        2678486
       ],
       "ret": "Ey+A4YGJVSr9ME6F/maLIwjHy8DOrgDL0bEmfKSFYvo="
     },
     {
       "on": [
         "beacon",
-        6,
-        2679926,
-        "RADY/1Q="
+        2679926
       ],
       "ret": "aQN7ifcFkaovPspkKksyR72u+GnP40TCx/lxGKFCDrs="
     }
